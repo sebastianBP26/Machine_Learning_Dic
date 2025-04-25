@@ -8,13 +8,6 @@ This repository aims to showcase examples of data manipulation, Machine Learning
   <img src="https://scikit-learn.org/1.4/_static/scikit-learn-logo-small.png" width="200" alt="Sklearn"/>
 </p>
 
-<p align="center">
-  <strong>Versicolor</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Setosa</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Virginica</strong>
-</p>
-
-
 ## Características
 - Característica 1.
 - Característica 2.
