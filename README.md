@@ -6,18 +6,15 @@ This repository aims to showcase examples of data manipulation, Machine Learning
 ![Sklearn](https://scikit-learn.org/1.4/_static/scikit-learn-logo-small.png) 
 ![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg)
 <p align="center">
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/1280px-Iris_versicolor_3.jpg" width="200"/>
-    <figcaption align="center">Versicolor</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/800px-Kosaciec_szczecinkowaty_Iris_setosa.jpg" width="200"/>
-    <figcaption align="center">Setosa</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris_virginica.jpg/1280px-Iris_virginica.jpg" width="200"/>
-    <figcaption align="center">Virginica</figcaption>
-  </figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/1280px-Iris_versicolor_3.jpg" width="200" alt="Versicolor"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/800px-Kosaciec_szczecinkowaty_Iris_setosa.jpg" width="200" alt="Setosa"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris_virginica.jpg/1280px-Iris_virginica.jpg" width="200" alt="Virginica"/>
+</p>
+
+<p align="center">
+  <strong>Versicolor</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Setosa</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Virginica</strong>
 </p>
 
 
