@@ -3,12 +3,9 @@
 ## Description
 This repository aims to showcase examples of data manipulation, Machine Learning, or Deep Learning algorithms implemented in Python. The main libraries used are Pandas, Polars, NumPy, TensorFlow, scikit-learn, and Keras.
 
-![Sklearn](https://scikit-learn.org/1.4/_static/scikit-learn-logo-small.png) 
-![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg)
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/1280px-Iris_versicolor_3.jpg" width="200" alt="Versicolor"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/800px-Kosaciec_szczecinkowaty_Iris_setosa.jpg" width="200" alt="Setosa"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris_virginica.jpg/1280px-Iris_virginica.jpg" width="200" alt="Virginica"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="200" alt="Pandas"/>
+  <img src="https://scikit-learn.org/1.4/_static/scikit-learn-logo-small.png" width="200" alt="Sklearn"/>
 </p>
 
 <p align="center">
