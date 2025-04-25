@@ -1,17 +1,17 @@
-# Nombre del Proyecto
+# An Introduction to Machine Learning with Python
 
-## Descripción
-Una breve descripción sobre el propósito del proyecto. Qué problema resuelve o qué funcionalidades proporciona.
+## Description
+This repository aims to showcase examples of data manipulation, Machine Learning, or Deep Learning algorithms implemented in Python. The main libraries used are Pandas, Polars, NumPy, TensorFlow, scikit-learn, and Keras.
 
-![Imagen descriptiva](URL_de_imagen)
+![Imagen descriptiva]([URL_de_imagen](https://scikit-learn.org/1.4/_static/scikit-learn-logo-small.png))
 
 ## Características
 - Característica 1.
 - Característica 2.
 - Característica 3.
 
-## Instalación
+## Installation
 
-1. Clona el repositorio:
+1. Clone:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/sebastianBP26/Machine_Learning_Dic.git
